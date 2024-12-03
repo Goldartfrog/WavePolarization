@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/AnimatedTutorial.unity
+    guid: fc59eed88b07a794a924aadc32472a5b
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/WavePolarization.unity
+    guid: d1b64469322cb8744bd98a5d95d49c86
+  - enabled: 1
+    path: Assets/Scenes/SpaceStation_Exterior_Night.unity
+    guid: 4478ffa7a7ba9aa49b330918ab4c8c9e
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 56f4efbfc461f2b4a8a60d069effbd5b,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 61d45bdebf48a5d439159e14b791f061,
+      type: 2}
